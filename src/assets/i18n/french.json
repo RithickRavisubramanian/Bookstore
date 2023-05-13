@@ -1,0 +1,13 @@
+{
+  "categories": "Catégories",
+  "bookStore" : "Librairie",
+  "serialNo": "Serial No.",
+  "productName": "Nom du produit",
+  "productImage": "Image du produit",
+  "description": "Description",
+  "type": "Taper",
+  "price": "Prix",
+  "quantity": "Quantité",
+  "action": "Action",
+  "welcome": "Bienvenu"
+}

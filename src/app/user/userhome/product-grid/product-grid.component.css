@@ -1,0 +1,12 @@
+table {
+    width: 100%;
+  }
+
+
+  .mat-column-price{
+    width: 10%;
+  }
+  .mat-column-id{
+    width: 5%;
+  }
+  

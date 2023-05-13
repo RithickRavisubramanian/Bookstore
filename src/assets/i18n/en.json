@@ -1,0 +1,13 @@
+{
+  "categories": "Categories",
+  "bookStore" : "Bookstore",
+  "serialNo": "Serial No.",
+  "productName": "Product Name",
+  "productImage": "Product Image",
+  "description": "Description",
+  "type": "Type",
+  "price": "Price",
+  "quantity": "Quantity",
+  "action": "Action",
+  "welcome": "Welcome"
+}

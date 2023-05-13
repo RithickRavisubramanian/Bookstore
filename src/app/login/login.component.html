@@ -1,0 +1,45 @@
+<img src="http://localhost/bgbook.jpg" style="position: absolute; width: 100%; height:525px">
+<div  id="login-card" *ngIf="logform">
+    <mat-card style="position: relative;">
+        <mat-card-content>
+            <form>
+                <mat-form-field>
+                    <input matInput placeholder="Email" [(ngModel)]="email" name="email" type="email" required>
+                </mat-form-field>
+                <mat-form-field>
+                    <input matInput placeholder="Password" [(ngModel)]="password" name="password" type="password"
+                        required>
+                </mat-form-field>
+                <button mat-raised-button color="primary" (click)="login()">Login</button>
+                <div class="errors">{{error}}</div>
+                <div style="text-align:center; color: black" (click)="toggle()">Not Registered yet? Click here</div>
+            </form>
+        </mat-card-content>
+    </mat-card>
+</div>
+
+<div id="login-card" *ngIf="!logform">
+    <mat-card>
+        <mat-card-content>
+            <form>
+                <mat-form-field>
+                    <input matInput placeholder="Username" [(ngModel)]="rusername" name="rusername" type="text"
+                        required>
+                </mat-form-field>
+                <mat-form-field>
+                    <input matInput placeholder="Password" [(ngModel)]="rpassword" name="rpassword" type="password"
+                        required>
+                </mat-form-field>
+                <mat-form-field>
+                    <input matInput placeholder="Verify Password" [(ngModel)]="vpassword" name="vpassword"
+                        type="password" required>
+                </mat-form-field>
+                <mat-form-field>
+                    <input matInput placeholder="Email" [(ngModel)]="remail" name="remail" type="email" required>
+                </mat-form-field>
+                <button mat-raised-button color="accent" (click)="register()">Register</button>
+                <div style="text-align:center; color: black" (click)="toggle()">Already registered? Click here</div>
+            </form>
+        </mat-card-content>
+    </mat-card>
+</div>
