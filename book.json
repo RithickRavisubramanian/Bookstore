@@ -1,0 +1,263 @@
+{
+  "users": [
+    {
+      "email": "rithickr@gmail.com",
+      "password": "$2a$10$XTl6JtlGRSWpKEkm5fnrSuFNlME2/2Myp0pZSAto7fakXNl8KWLry",
+      "username": "rithick",
+      "type": "user",
+      "lastname": "r",
+      "id": 9,
+      "isAdmin": false
+    },
+    {
+      "email": "rithick@gmail.com",
+      "password": "$2a$10$XTl6JtlGRSWpKEkm5fnrSuFNlME2/2Myp0pZSAto7fakXNl8KWLry",
+      "username": "Rithick",
+      "type": "Admin",
+      "lastname": "R",
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "email": "rithick1@gmail.com",
+      "password": "$2a$10$KPkKRXMsmOY/5eogyQs.9.oE0ZrxM6RTeED8JroIkViOnQA8xAD.m",
+      "username": "rithick",
+      "type": "user",
+      "id": 10,
+      "isAdmin": false
+    },
+    {
+      "email": "shyam@gmail.com",
+      "password": "$2a$10$Oo/FiARUznUP1dXLctDocuqAwKKEWqYqZwWmAd10gr0J1kW/TCame",
+      "username": "shyam",
+      "type": "user",
+      "id": 11,
+      "isAdmin": false
+    },
+    {
+      "email": "roshan@gmail.com",
+      "password": "$2a$10$0j3I8fTFk5R0oSOV7WonUusYdBd5xDGGQV6Yl6QC5YEeth1lFJ7FO",
+      "username": "roshan@gmail.com",
+      "type": "user",
+      "id": 12
+    },
+    {
+      "email": "athif@gmail.com",
+      "password": "$2a$10$NYTfSzKSSYOO1df8tFP.XOgJbWn062cknBl0P3BYRcj1YjHBWFxHK",
+      "username": "rithick",
+      "type": "user",
+      "lastname": "r",
+      "id": 13
+    }
+  ],
+  "feedbacks": [],
+  "products": [
+    {
+      "id": 2,
+      "name": "The Great Gatsby",
+      "type": "Fiction",
+      "price": 11.99,
+      "image": "gatsby.jpg",
+      "description": "F. Scott Fitzgerald's novel about the excesses and decadence of the Jazz Age.",
+      "quantity": 8
+    },
+    {
+      "id": 5,
+      "name": "1984",
+      "type": "Fiction",
+      "price": 10.99,
+      "image": "ninteen.jpg",
+      "description": "George Orwell's classic novel about a dystopian society where individuality and freedom are suppressed.",
+      "quantity": 7
+    },
+    {
+      "id": 6,
+      "name": "Brave New World",
+      "type": "Fiction",
+      "price": 9.99,
+      "image": "brave.jpg",
+      "description": "Aldous Huxley's novel about a dystopian society where people are conditioned from birth to be content with their assigned roles.",
+      "quantity": 5
+    },
+    {
+      "id": 7,
+      "name": "The Glass Hotel",
+      "type": "Fiction",
+      "price": 10.99,
+      "image": "glass.jpg",
+      "description": "Emily St. John Mandel's novel about a woman who disappears from a container ship and the people who are affected by her disappearance.",
+      "quantity": 7
+    },
+    {
+      "id": 12,
+      "name": "The Sun Also Rises",
+      "type": "Fiction",
+      "price": 9.99,
+      "image": "sun.jpg",
+      "description": "Ernest Hemingway's novel about a group of expatriates who travel from Paris to Pamplona to watch the bullfights.",
+      "quantity": 7
+    },
+    {
+      "id": 13,
+      "name": "The Road",
+      "type": "Fiction",
+      "price": 8.99,
+      "image": "road.jpg",
+      "description": "Cormac McCarthy's novel about a father and son who journey through a post-apocalyptic world.",
+      "quantity": 4
+    },
+    {
+      "id": 13,
+      "name": " A Brief History of Humankind",
+      "type": "Non-fiction",
+      "price": 13.99,
+      "image": "sapiens.jpg",
+      "description": "Yuval Noah Harari's book about the history of humankind from the emergence of Homo sapiens in Africa to the present day.",
+      "quantity": 10
+    },
+    {
+      "id": 14,
+      "name": "Thinking, Fast and Slow",
+      "type": "Non-fiction",
+      "price": 12.99,
+      "image": "think.jpg",
+      "description": "Daniel Kahneman's book about the two systems that drive the way we think and make decisions.",
+      "quantity": 8
+    },
+    {
+      "id": 15,
+      "name": "Becoming",
+      "type": "Non-fiction",
+      "price": 10.99,
+      "image": "becoming.jpg",
+      "description": "Michelle Obama's memoir about her life and experiences as First Lady of the United States.",
+      "quantity": 7
+    },
+    {
+      "id": 16,
+      "name": "The Power of Now",
+      "type": "Non-fiction",
+      "price": 12.99,
+      "image": "now.jpg",
+      "description": "Eckhart Tolle's book about the importance of living in the present moment.",
+      "quantity": 3
+    },
+    {
+      "id": 18,
+      "name": "Educated",
+      "type": "Non-fiction",
+      "price": 10.99,
+      "image": "educate.jpg",
+      "description": "Tara Westover's memoir about her upbringing in a survivalist family and her journey to receive a formal education.",
+      "quantity": 5
+    },
+    {
+      "id": 19,
+      "name": "The Four Hour Work Week",
+      "type": "Non-fiction",
+      "price": 9.99,
+      "image": "week.jpg",
+      "description": "Timothy Ferriss's book about strategies for achieving more by working less.",
+      "quantity": 8
+    },
+    {
+      "id": 20,
+      "name": "Unbroken",
+      "type": "Non-fiction",
+      "price": 11.99,
+      "image": "unbroken.jpg",
+      "description": "Laura Hillenbrand's book about the life of Louis Zamperini, an Olympic athlete and prisoner of war during World War II.",
+      "quantity": 4
+    },
+    {
+      "id": 21,
+      "name": "The New Jim Crow",
+      "type": "Non-fiction",
+      "price": 13.99,
+      "image": "crow.jpg",
+      "description": "Michelle Alexander's book about the impact of the mass incarceration of Black Americans on the United States.",
+      "quantity": 7
+    },
+    {
+      "id": 23,
+      "name": "The Eye of the World",
+      "type": "Fantasy",
+      "price": 11.99,
+      "image": "world.jpg",
+      "description": "The first book in Robert Jordan's The Wheel of Time series.",
+      "quantity": 3
+    },
+    {
+      "id": 24,
+      "name": "The Name of the Wind",
+      "type": "Fantasy",
+      "price": 13.99,
+      "image": "wind.jpg",
+      "description": "The first book in Patrick Rothfuss's Kingkiller Chronicle series.",
+      "quantity": 9
+    },
+    {
+      "id": 25,
+      "name": "Assassin's Apprentice",
+      "type": "Fantasy",
+      "price": 12.99,
+      "image": "apprentice.jpg",
+      "description": "The first book in Robin Hobb's Farseer Trilogy.",
+      "quantity": 8
+    },
+    {
+      "name": "THE GREAT GATSBY",
+      "email": "rithickr@gmail.com",
+      "price": "2$",
+      "image": "gatsby.jpg",
+      "description": "this is amdals ",
+      "quantity": "2",
+      "id": 26
+    },
+    {
+      "name": "THE GREAT GATSBY",
+      "email": "rithickr@gmail.com",
+      "price": "9$",
+      "image": "gatsby.jpg",
+      "description": "Michelle Obama's memoir about her life and experiences as First Lady of the United States",
+      "id": 27
+    },
+    {
+      "name": "TO KILL A MOCKING BIRD",
+      "email": "rithick@gmail.com",
+      "price": "2$",
+      "image": "gatsby.jpg",
+      "description": "nice one",
+      "quantity": "1",
+      "id": 28
+    },
+    {
+      "name": "THE GREAT GATSBY",
+      "email": "rithick@gmail.com",
+      "price": "8$",
+      "image": "gatsby.jpg",
+      "description": "this is amdals ",
+      "quantity": "7",
+      "id": 29
+    },
+    {
+      "name": "THE GREAT GATSBY",
+      "email": "rithickr@gmail.com",
+      "price": "8$",
+      "image": "gatsby.jpg",
+      "description": "this is amdals ",
+      "quantity": "3",
+      "id": 30
+    },
+    {
+      "name": "THE GREAT GATSBY",
+      "email": "rithick@gmail.com",
+      "price": "9$",
+      "image": "gatsby.jpg",
+      "description": "Michelle Obama's memoir about her life and experiences as First Lady of the United States",
+      "quantity": "1",
+      "id": 31
+    }
+  ],
+  "carts": []
+}
